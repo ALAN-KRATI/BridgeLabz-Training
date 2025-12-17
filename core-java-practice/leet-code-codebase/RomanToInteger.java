@@ -1,7 +1,6 @@
 import java.util.Scanner;
 class Solution {
     public static int romanToInt(String s) {
-        
         int pre = 0;
         int sum =0;
         for(int i = 0 ; i < s.length() ; i++){
