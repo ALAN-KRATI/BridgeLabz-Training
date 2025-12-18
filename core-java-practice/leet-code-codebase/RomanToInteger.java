@@ -45,10 +45,8 @@ class Solution {
             sum = sum + current;
         }
         pre = current;
-
-
-
         }    
+        
         return sum;
     }
     public static void main(String[] args){
