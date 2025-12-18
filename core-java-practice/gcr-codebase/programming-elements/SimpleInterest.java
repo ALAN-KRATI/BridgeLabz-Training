@@ -11,6 +11,7 @@ public class SimpleInterest{
         System.out.println(interest(p, r, t));// prints the simple interest
     }
 
+
     // function to calculate simple interest
     public static double interestint p , int r, int t){
         return p*r*t/100;
