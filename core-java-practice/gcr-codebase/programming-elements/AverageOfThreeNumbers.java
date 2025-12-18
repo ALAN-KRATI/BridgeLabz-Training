@@ -11,6 +11,9 @@ public class AverageOfThreeNumbers{
         System.out.println(average(a, b, c));// prints the average of the three numbers
     }
 
+
+    
+
     // function to calculate the average of three numbers
     public static double power(int a, int b, int c){
        return (a+b+c)/3;
