@@ -10,6 +10,7 @@ public class PowerCalculation{
         System.out.println(power(b, e));// print the power
     }
 
+
     // function to calculate power
     public static double power(int b, int e){
         int ans = 1;
