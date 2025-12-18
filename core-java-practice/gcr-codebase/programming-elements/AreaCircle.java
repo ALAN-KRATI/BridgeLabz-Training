@@ -8,6 +8,7 @@ public class AreaCircle{
 
         System.out.println(area(radius));// prints the area of the circle
     }
+    
 
     // calculates the area of the circle using the formula
     public static double area(double r){
