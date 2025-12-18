@@ -9,7 +9,6 @@ public class CelsiusToFarenheit{
         System.out.println(convertToFarenheit(a));// prints the converted temperature here
     }
 
-
     // converts the celsius temperature to farenheit
     public static double convertToFarenheit(double celsius){
         double farenheit = (celsius * 9/5) + 32;
