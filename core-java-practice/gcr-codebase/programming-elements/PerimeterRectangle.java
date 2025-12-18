@@ -10,6 +10,7 @@ public class PerimeterRectangle{
         System.out.println(perimeter(l, b));// prints the perimeter of the rectangle
     }
 
+
     // function to calculate perimeter of a rectangle
     public static double volume(int l, int b){
         return 2 * (l + b);
