@@ -1,5 +1,5 @@
 import java.util.*;
-public class TriangleArea {
+public class SquareSide{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int perimeter = sc.nextInt();
