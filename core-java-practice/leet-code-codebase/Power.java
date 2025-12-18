@@ -15,6 +15,7 @@ class Solution {
             x *= x;
             n >>>= 1;   
         }
+        
         return pow;
     }
 }
