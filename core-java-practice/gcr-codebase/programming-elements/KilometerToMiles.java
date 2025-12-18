@@ -5,7 +5,6 @@ public class KilometerToMiles{
         // taking distance in km as input
         Scanner sc = new Scanner(System.in);
         int km = sc.nextInt();
-        
 
         System.out.println(KmToM(km));// print the distance in miles
     }
