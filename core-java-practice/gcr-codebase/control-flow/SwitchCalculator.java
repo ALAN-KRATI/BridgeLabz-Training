@@ -5,6 +5,7 @@ public class SwitchCalculator {
         double first = sc.nextDouble();
         double second = sc.nextDouble();
         String op = sc.next();
+        
         switch (op) {
             case "+":
                 System.out.println(first + second);

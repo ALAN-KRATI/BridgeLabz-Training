@@ -8,7 +8,8 @@ public class LeapYearIfElse {
                 System.out.println("Leap Year");
             else
                 System.out.println("Not a Leap Year");
-        } else {
+        } 
+        else {
             System.out.println("Not a Leap Year");
         }
     }

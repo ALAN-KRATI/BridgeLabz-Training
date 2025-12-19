@@ -8,6 +8,7 @@ public class GradeCalculation {
         int total = phy + chem + math;
         double percent = total / 3.0;
         System.out.println("Average Mark: " + percent);
+        
         if (percent >= 80)
             System.out.println("Grade: A");
         else if (percent >= 70)

@@ -4,6 +4,7 @@ public class PrimeNumber {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
         boolean isPrime = true;
+
         if (number > 1) {
             for (int i = 2; i < number; i++) {
                 if (number % i == 0) {
@@ -11,9 +12,12 @@ public class PrimeNumber {
                     break;
                 }
             }
-        } else {
+        } 
+        else {
             isPrime = false;
         }
+
+        
         if (isPrime)
             System.out.println("Prime Number");
         else
