@@ -4,15 +4,15 @@ public class CylinderVolume{
     public static void main(String[] args){
         // taking height and radius as input
         Scanner sc = new Scanner(System.in);
-        int r = sc.nextInt();
-        int h = sc.nextInt();
+        int radius = sc.nextInt();
+        int height = sc.nextInt();
 
-        System.out.println(volume(r, h));// print the volume of the cylinder
+        System.out.println(volume(radius, height));// print the volume of the cylinder
     }
 
 
     // function to calculate volume of the cylinder
-    public static double volume(int r, int h){
-        return 3.14*r*r*h;
+    public static double volume(int radius, int height){
+        return 3.14*radius*radius*height;
     }
 }

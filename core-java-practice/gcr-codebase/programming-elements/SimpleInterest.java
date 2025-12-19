@@ -4,16 +4,16 @@ public class SimpleInterest{
     public static void main(String[] args){
         // taking pricipal amount, rate and time as input
         Scanner sc = new Scanner(System.in);
-        int p = sc.nextInt();
-        int r = sc.nextInt();
-        int t = sc.nextInt();
+        int principle = sc.nextInt();
+        int rate = sc.nextInt();
+        int time = sc.nextInt();
 
-        System.out.println(interest(p, r, t));// prints the simple interest
+        System.out.println(interest(principle, rate, time));// prints the simple interest
     }
 
 
     // function to calculate simple interest
-    public static double interestint p , int r, int t){
-        return p*r*t/100;
+    public static double interest(int principle , int rate, int time){
+        return principle*rate*time/100;
     }
 }

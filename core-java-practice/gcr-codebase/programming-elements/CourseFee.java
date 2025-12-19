@@ -1,10 +1,10 @@
 public class CourseFee{
     public static void main(String[] args){
         int fee =  125000;
-        int discper = 10;
-        int disct = (fee * discountPercent) / 100;
-        int paidFee = fee - disct;
+        int discountPercent = 10;
+        int discount = (fee * discountPercent) / 100;
+        int paidFee = fee - discount;
 
-        System.out.println("The discount amount is INR " + disct + " and final discounted fee is INR " + paidFee);
+        System.out.println("The discount amount is INR " + discount + " and final discounted fee is INR " + paidFee);
     }
 }

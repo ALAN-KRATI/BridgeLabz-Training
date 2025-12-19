@@ -4,15 +4,15 @@ public class PerimeterRectangle{
     public static void main(String[] args){
         // taking length and breadth as inputs
         Scanner sc = new Scanner(System.in);
-        int l = sc.nextInt();
-        int b = sc.nextInt();
+        int length = sc.nextInt();
+        int breadth = sc.nextInt();
 
-        System.out.println(perimeter(l, b));// prints the perimeter of the rectangle
+        System.out.println(perimeter(length, breadth));// prints the perimeter of the rectangle
     }
 
 
     // function to calculate perimeter of a rectangle
-    public static double volume(int l, int b){
-        return 2 * (l + b);
+    public static double volume(int length, int breadth){
+        return 2 * (length + breadth);
     }
 }

@@ -1,10 +1,10 @@
 public class EarthVolume{
     public static void main(String[] args){
-        double rkm = 6378;
-        double rMile = 6378 * 1.6;
-        double vKm = (4/3) * 3.14 * rkm * rkm * rkm;
-        double vMile = (4/3) * 3.14 * rMile * rMile * rMile;
+        double radiusInkm = 6378;
+        double radiusInMile = 6378 * 1.6;
+        double volumeInKm = (4/3) * 3.14 * radiusInkm * radiusInkm * radiusInkm;
+        double volumeInMile = (4/3) * 3.14 * radiusInMile * radiusInMile * radiusInMile;
 
-        System.out.println("The volume of earth in cubic kilometers is " + vKm + " and cubic miles is " + vMile);
+        System.out.println("The volume of earth in cubic kilometers is " + volumeInKm + " and cubic miles is " + volumeInMile);
     }
 }
