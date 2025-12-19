@@ -9,6 +9,7 @@ public class SumUntilZeroOrNegative {
             if (input <= 0) break;
             total += input;
         }
+        
         System.out.println("Total sum is: " + total);
     }
 }

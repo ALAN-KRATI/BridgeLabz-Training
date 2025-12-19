@@ -11,6 +11,7 @@ public class NaturalNumbersSumWhile {
         int formulaSum = n * (n + 1) / 2;
         int loopSum = 0;
         int i = 1;
+        
         while (i <= n) {
             loopSum += i;
             i++;

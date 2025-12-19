@@ -6,7 +6,8 @@ public class CheckAge {
 
         if (age >= 18) {
             System.out.println("The person's age is " + age + " and can vote.");
-        } else {
+        } 
+        else {
             System.out.println("The person's age is " + age + " and cannot vote.");
         }
     }

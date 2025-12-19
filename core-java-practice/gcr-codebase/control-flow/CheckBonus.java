@@ -8,7 +8,8 @@ public class CheckBonus {
         if (years > 5) {
             double bonus = 0.05 * salary;
             System.out.println("Bonus is: " + bonus);
-        } else {
+        } 
+        else {
             System.out.println("No bonus.");
         }
     }

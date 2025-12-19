@@ -8,6 +8,7 @@ public class SumUntilZero {
         while ((input = sc.nextDouble()) != 0) {
             total += input;
         }
+        
         System.out.println("Total sum is: " + total);
     }
 }

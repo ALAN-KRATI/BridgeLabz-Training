@@ -5,7 +5,8 @@ public class Divisibleby5 {
         int n = sc.nextInt();
         if(n%5 == 0){
             System.out.println("Is the number " + n + " divisible by 5? Yes");
-        } else {
+        } 
+        else {
             System.out.println("Is the number " + n + " divisible by 5? No");
         }
     }

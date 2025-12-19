@@ -6,9 +6,11 @@ public class NumberChecker {
 
         if (n > 0) {
             System.out.println("Positive");
-        } else if (n < 0) {
+        } 
+        else if (n < 0) {
             System.out.println("Negative");
-        } else {
+        } 
+        else {
             System.out.println("Zero");
         }
     }
