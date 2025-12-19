@@ -13,7 +13,8 @@ public class FactorsWhile {
                 }
                 i++;
             }
-        } else {
+        } 
+        else {
             System.out.println("Invalid input.");
         }
     }

@@ -15,7 +15,8 @@ public class FizzBuzzFor {
                 else
                     System.out.println(i);
             }
-        } else {
+        } 
+        else {
             System.out.println("Not a positive integer.");
         }
     }

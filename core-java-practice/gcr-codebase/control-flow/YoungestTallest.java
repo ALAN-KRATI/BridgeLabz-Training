@@ -6,9 +6,11 @@ public class YoungestTallest {
         System.out.print("Enter age and height of Amar: ");
         int age1 = sc.nextInt();
         double height1 = sc.nextDouble();
+
         System.out.print("Enter age and height of Akbar: ");
         int age2 = sc.nextInt();
         double height2 = sc.nextDouble();
+        
         System.out.print("Enter age and height of Anthony: ");
         int age3 = sc.nextInt();
         double height3 = sc.nextDouble();

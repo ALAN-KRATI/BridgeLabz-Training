@@ -11,7 +11,8 @@ public class FactorsFor {
                     System.out.println(i);
                 }
             }
-        } else {
+        } 
+        else {
             System.out.println("Invalid input.");
         }
     }

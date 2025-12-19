@@ -11,7 +11,8 @@ public class PowerFor {
                 res *= n;
             }
             System.out.println("Result: " + res);
-        } else {
+        } 
+        else {
             System.out.println("Only positive integers allowed.");
         }
  

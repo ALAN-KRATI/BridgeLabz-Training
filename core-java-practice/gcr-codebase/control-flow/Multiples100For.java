@@ -10,7 +10,8 @@ public class Multiples100For {
                     System.out.println(i);
                 }
             }
-        } else {
+        } 
+        else {
             System.out.println("Invalid input.");
         }
     }

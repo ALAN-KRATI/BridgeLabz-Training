@@ -4,16 +4,17 @@ public class GreatestFactorWhile {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        int gF = 1;
+        int greatestFactor = 1;
         int c = n - 1;
 
         while (c >= 1) {
             if (n % c == 0) {
-                gF = c;
+                greatestFactor = c;
                 break;
             }
             c--;
         }
-        System.out.println("Greatest factor: " + gF);
+
+        System.out.println("Greatest factor: " + greatestFactor);
     }
 }

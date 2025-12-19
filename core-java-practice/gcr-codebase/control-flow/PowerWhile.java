@@ -14,7 +14,8 @@ public class PowerWhile {
                 c++;
             }
             System.out.println("Result: " + res);
-        } else {
+        } 
+        else {
             System.out.println("Only positive integers are allowed.");
         }
     }

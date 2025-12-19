@@ -12,7 +12,8 @@ public class Multiples100While {
                 }
                 c--;
             }
-        } else {
+        } 
+        else {
             System.out.println("Invalid input.");
         }
     }
