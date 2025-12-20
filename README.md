@@ -11,6 +11,16 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 **(Date: 16-Dec-2025)**  
 - Installed and configured Git.
 - Set up GitHub repository.
+
+          BridgeLabz-Training/
+          ├── core-java-practice/
+          │   └── gcr-codebase/
+          │       └── programming-elements/ 
+          |       └── control-flow/
+          |   └── leet-code-codebase/
+          |   └── scenario-based/
+          └── README.md
+
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
 - Successfully pushed files to the remote repository.
 
