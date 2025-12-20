@@ -15,8 +15,8 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
           BridgeLabz-Training/
           ├── core-java-practice/
           │   └── gcr-codebase/
-          │       └── programming-elements/ 
-          |       └── control-flow/
+          │   |   └── programming-elements/ 
+          |   |   └── control-flow/
           |   └── leet-code-codebase/
           |   └── scenario-based/
           └── README.md
