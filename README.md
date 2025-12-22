@@ -65,5 +65,39 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 
 ---
 
+### 📅 Day 5 – Arrays  
+**(Date: 20-Dec-2025)**  
+
+- Studied Java array concepts:
+  - 1D and multidimensional arrays (declaration, initialization, traversal)
+  - Taking array input using loops
+  - Finding maximum, minimum, sum, and average
+  - Frequency counting in arrays
+- Solved array-based practice problems.
+- Uploaded completed array programs to GitHub.
+
+🔗 **Code Link:**  
+👉 [Day 5 – Array Problems](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+
+---
+
+### 📅 Day 6 – Strings  
+**(Date: 22-Dec-2025)**  
+
+- Learned Java String fundamentals:
+  - String creation (`String`, `char[]`)
+  - Common methods (`length()`, `charAt()`, `toLowerCase()`, `toUpperCase()`)
+  - String immutability and comparison
+- Solved string manipulation problems:
+  - Anagrams
+  - Unique characters
+  - Character frequency
+- Pushed all string-related programs to GitHub.
+
+🔗 **Code Link:**  
+👉 [Day 6 – String Problems](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
+---
+
 ### 🔗 Repository Link
 👉 [BridgeLabz Training Repository](https://github.com/ALAN-KRATI/BridgeLabz-Training)
