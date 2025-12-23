@@ -84,18 +84,51 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 ### 📅 Day 6 – Strings  
 **(Date: 22-Dec-2025)**  
 
-- Learned Java String fundamentals:
-  - String creation (`String`, `char[]`)
-  - Common methods (`length()`, `charAt()`, `toLowerCase()`, `toUpperCase()`)
-  - String immutability and comparison
-- Solved string manipulation problems:
-  - Anagrams
-  - Unique characters
-  - Character frequency
-- Pushed all string-related programs to GitHub.
+- Studied **Java Strings and String handling in depth**:
+  - String creation using `String` class and `char[]`
+  - String immutability and comparison techniques  
 
-🔗 **Code Link:**  
+- Learned **methods in general**:
+  - What methods are and why they are used  
+  - Method calling, parameters, and return types  
+
+- Explored **String methods & inbuilt functions**:
+  - `length()`, `charAt()`, `toLowerCase()`, `toUpperCase()`  
+  - Other commonly used string utility methods  
+
+- Solved **string manipulation problems**:
+  - Anagrams  
+  - Checking unique characters  
+  - Character frequency  
+
+- 🚀 Pushed all **string-related programs** to GitHub  
+
+
+
+
+🔗 **Code Links:**  
 👉 [Day 6 – String Problems](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+👉 [Day 6 – Method Problems](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/java-methods)
+👉 [Day 6 – BuiltIn-Functions Problems](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/builtIn-functions)
+
+---
+
+## Week 2: Object-Oriented Programming (OOPS)
+
+### 📅 Day 7 – OOPS Basics  
+**(Date: 23-Dec-2025)**  
+
+- Studied **OOPS concepts in Java**
+- Learned **classes and objects**
+- Understood **instance variables and class (static) variables**
+- Learned **Java constructors**
+- Studied **access modifiers** (`public`, `private`, `protected`, default)
+- Solved **problems on each OOPS topic**
+- Practiced **basic OOPS-based programs**
+
+🔗 **Code Links:**  
+👉 [Day 7 – Object&Classes Problems](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/class-objects) 
+👉 [Day 7 – Constructor&Modifiers Problems](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/constructors-modifiers)
 
 ---
 
