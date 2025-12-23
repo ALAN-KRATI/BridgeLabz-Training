@@ -103,9 +103,6 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 
 - 🚀 Pushed all **string-related programs** to GitHub  
 
-
-
-
 🔗 **Code Links:**  
 👉 [Day 6 – String Problems](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 👉 [Day 6 – Method Problems](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/java-methods)
@@ -117,6 +114,17 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 
 ### 📅 Day 7 – OOPS Basics  
 **(Date: 23-Dec-2025)**  
+
+- Set up repository
+
+          BridgeLabz-Training/
+          ├── OOPS/
+          │   └── gcr-codebase/
+          │   |   └── class-objects/ 
+          |   |   └── constructors-modifiers/
+          |   └── leet-code-codebase/
+          |   └── scenario-based/
+          └── README.md
 
 - Studied **OOPS concepts in Java**
 - Learned **classes and objects**
