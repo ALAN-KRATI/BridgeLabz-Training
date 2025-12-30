@@ -1,6 +1,6 @@
 import java.util.*;
 
-class SlidingWindowMaximum {
+class SlidingWindow {
     public int[] maxSlidingWindow(int[] nums, int k) {
         if (nums == null || k <= 0) return new int[0];
         int n = nums.length;
@@ -18,8 +18,8 @@ class SlidingWindowMaximum {
     }
 
     public static void main(String[] args) {
-        SlidingWindowMaximum sw = new SlidingWindowMaximum();
+        SlidingWindow sw = new SlidingWindow();
         int[] res = sw.maxSlidingWindow(new int[]{1,3,-1,-3,5,3,6,7}, 3);
-        System.out.println(Arrays.toString(res)); // Output: [3, 3, 5, 5, 6, 7]
+        System.out.println(Arrays.toString(res)); 
     }
 }
