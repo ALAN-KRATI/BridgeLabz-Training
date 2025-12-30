@@ -187,7 +187,7 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 ## Week 3: Data Structures And Algorithms (DSA)
 
 ### 📅 Day 10 – Introduction to DSA  
-**(Date: 27-Dec-2025)**  
+**(Date: 29-Dec-2025)**  
 
 - Set up repository
 
@@ -195,8 +195,8 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
           ├── DSA/
           │   └── gcr-codebase/
           │   |   └── linkedlists/ 
-          |   |   └── stack-queue/
-          |   |   └── hashmaps/
+          |   |   └── stack-queue-hashmap/
+          |   |   └── sorting-algorithms/
           |   └── leet-code-codebase/
           |   └── scenario-based/
           └── README.md
@@ -211,9 +211,30 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 - Practiced **basic examples and problems** on each data structure  
 
 🔗 **Code / Practice Links:**  
-👉 [Day 10 – DSA Introduction & Basics]()
+👉 [Day 10 – DSA Introduction & Basics](http://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hashmaps)
 
 ---
+
+### 📅 Day 11 – Sorting Algorithms  
+**(Date: 30-Dec-2025)**  
+
+- Studied **Sorting algorithms** and their role in Data Structures
+- Learned **seven sorting algorithms**:
+  - Bubble Sort  
+  - Selection Sort  
+  - Insertion Sort  
+  - Merge Sort  
+  - Quick Sort  
+  - Heap Sort  
+  - Counting Sort  
+- Understood the **working principles** of each sorting algorithm
+- Analyzed **time and space complexity** for the sorting methods
+- Compared sorting algorithms based on **efficiency and use cases**
+- Practiced **implementations and problems** on sorting algorithms  
+
+🔗 **Code / Practice Links:**  
+👉 [Day 11 – Sorting Algorithms Practice](http://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
+
 
 ### 🔗 Repository Link
 👉 [BridgeLabz Training Repository](https://github.com/ALAN-KRATI/BridgeLabz-Training)
