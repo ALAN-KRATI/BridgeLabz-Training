@@ -17,6 +17,7 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
           │   |   └── linkedlists/ 
           |   |   └── stack-queue-hashmap/
           |   |   └── sorting-algorithms/
+          |   |   └── binary-linear-search/
           |   └── leet-code-codebase/
           |   └── scenario-based/
           └── README.md
@@ -57,7 +58,25 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 🔗 **Code / Practice Links:**  
 👉 [Day 11 – Sorting Algorithms Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
 
+---
 
+### 📅 Day 12 – Searching Techniques & Java I/O  
+**(Date: 31-Dec-2025)**  
+
+- Studied **searching algorithms**:
+  - **Linear Search**
+  - **Binary Search**
+- Understood the working and use cases of each search technique
+- Learned **StringBuilder and StringBuffer** and their differences
+- Explored **string concatenation performance** using StringBuilder and StringBuffer
+- Studied **FileReader** for reading text files line by line
+- Learned **InputStreamReader** for reading user input from the console
+- Practiced **programs based on searching, string handling, and Java I/O**  
+
+🔗 **Code / Practice Links:**  
+👉 [Day 11 – Sorting Algorithms & I/O Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/binary-linear-search)
+
+---
 
 ### 🔗 Repository Link
 👉 [BridgeLabz Training Repository](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice)
