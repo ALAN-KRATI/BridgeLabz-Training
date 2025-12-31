@@ -12,7 +12,7 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 - Set up repository
 
           BridgeLabz-Training/
-          ├── DSA/
+          ├── dsa-practice/
           │   └── gcr-codebase/
           │   |   └── linkedlists/ 
           |   |   └── stack-queue-hashmap/
