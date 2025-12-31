@@ -13,14 +13,14 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 - Set up repository
 
           BridgeLabz-Training/
-          ├── OOPS/
+          ├── oops-practice/
           │   └── gcr-codebase/
           │   |   └── class-objects/ 
           |   |   └── constructors-modifiers/
           |   |   └── diagrams-modelling/
           |   |   └── inheritance/
-          |   |   └── java-principles/
-          |   |   └── this-static-keyword/
+          |   |   └── oops-pillars/
+          |   |   └── this-static-final-keyword/
           |   └── leet-code-codebase/
           |   └── scenario-based/
           └── README.md
@@ -75,4 +75,4 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 ---
 
 ### 🔗 Repository Link
-👉 [BridgeLabz Training Repository](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/OOPS)
+👉 [BridgeLabz Training Repository](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/oops-practice)
