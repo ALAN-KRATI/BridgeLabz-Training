@@ -60,21 +60,36 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 
 ---
 
-### 📅 Day 12 – Searching Techniques & Java I/O  
+### 📅 Day 12 – String Handling, File I/O & Searching  
 **(Date: 31-Dec-2025)**  
 
-- Studied **searching algorithms**:
-  - **Linear Search**
-  - **Binary Search**
-- Understood the working and use cases of each search technique
-- Learned **StringBuilder and StringBuffer** and their differences
-- Explored **string concatenation performance** using StringBuilder and StringBuffer
-- Studied **FileReader** for reading text files line by line
-- Learned **InputStreamReader** for reading user input from the console
-- Practiced **programs based on searching, string handling, and Java I/O**  
+- Studied **StringBuilder** and **StringBuffer**
+- Understood the differences between **StringBuilder vs StringBuffer**
+- Practiced **string concatenation and performance comparison**
+- Learned **FileReader** for reading text files
+- Studied **InputStreamReader** for reading user input from the console
+- Explored **Linear Search** and its working
+- Learned **Binary Search** and its efficiency compared to linear search
+- Practiced **programs based on string handling, file I/O, and searching algorithms**
 
 🔗 **Code / Practice Links:**  
-👉 [Day 11 – Sorting Algorithms & I/O Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/binary-linear-search)
+👉 [Day 11 – Searching & I/O Practice](http://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/binary-linear-search)
+
+---
+
+### 📅 Day 13 – Runtime Analysis & Big-O Notation  
+**(Date: 01-Jan-2025)**  
+
+- Studied **algorithm runtime analysis** and its importance
+- Learned **Big-O notation** to analyze algorithm efficiency
+- Understood **time complexity** and **space complexity**
+- Explored common Big-O classes:
+  - O(1), O(log N), O(N), O(N log N), O(N²)
+- Analyzed **best, average, and worst-case scenarios**
+- Practiced **evaluating time complexity** of loops and algorithms  
+
+🔗 **Code / Practice Links:**  
+👉 [Day 11 – Time & Space Complexity Practice](http://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/time-space-complexity)
 
 ---
 
