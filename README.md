@@ -198,6 +198,7 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
           |   |   └── stack-queue-hashmap/
           |   |   └── sorting-algorithms/
           |   |   └── binary-linear-search/
+          |   |   └── time-space-complexity/
           |   └── leet-code-codebase/
           |   └── scenario-based/
           └── README.md
@@ -251,7 +252,7 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 - Practiced **programs based on string handling, file I/O, and searching algorithms**
 
 🔗 **Code / Practice Links:**  
-👉 [Day 11 – Searching & I/O Practice](http://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/binary-linear-search)
+👉 [Day 12 – Searching & I/O Practice](http://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/binary-linear-search)
 
 ---
 
@@ -267,7 +268,34 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 - Practiced **evaluating time complexity** of loops and algorithms  
 
 🔗 **Code / Practice Links:**  
-👉 [Day 11 – Time & Space Complexity Practice](http://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/time-space-complexity)
+👉 [Day 13 – Time & Space Complexity Practice](http://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/time-space-complexity)
+
+---
+
+## Week 4: Java Collections and Streams
+
+### 📅 Day 14 – Java Generics  
+**(Date: 02-Jan-2026)**  
+- Set up GitHub repository.
+
+          BridgeLabz-Training/
+          ├── collections-practice/
+          │   └── gcr-codebase/
+          │   |   └── generics/ 
+          |   └── leet-code-codebase/
+          |   └── scenario-based/
+          └── README.md
+
+- Studied **Java Generics** and their purpose
+- Understood **type safety** and how generics prevent runtime errors
+- Learned to create **generic classes and methods**
+- Explored the use of **bounded type parameters**
+- Understood **wildcards** (`?`, `? extends`, `? super`)
+- Practiced **generic-based programs** for better code reusability
+- Analyzed how generics improve **readability and maintainability**
+
+🔗 **Code / Practice Links:**  
+👉 [Day 14 – Java-Generics](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
 
 ---
 
