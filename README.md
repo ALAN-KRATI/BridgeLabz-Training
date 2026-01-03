@@ -16,6 +16,7 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
           ├── collections-practice/
           │   └── gcr-codebase/
           │   |   └── generics/ 
+          │   |   └── collections/ 
           |   └── leet-code-codebase/
           |   └── scenario-based/
           └── README.md
@@ -31,6 +32,19 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 🔗 **Code / Practice Links:**  
 👉 [Day 14 – Java-Generics](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
 
+
+---
+
+### 📅 Day 15 – Java Collections  
+**(Date: 03-Jan-2026)**  
+
+- Studied the **Java Collections Framework** and its hierarchy.
+- Learned and practiced `List`, `Set`, `Queue`, and `Map`.
+- Understood differences between major collection implementations.
+- Practiced basic collection operations and simple real-world examples.
+
+🔗 **Code / Practice Links:**  
+👉 [Day 15 – Java-Collections](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
 
 ---
 
