@@ -286,7 +286,7 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
           │   |   └── collections/ 
           │   |   └── streams/
           │   |   └── exceptions/
-          │   |   └── regex/
+          │   |   └── regex-junit/
           |   └── leet-code-codebase/
           |   └── scenario-based/
           └── README.md
@@ -318,8 +318,8 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 
 ---
 
-### 📅 Day 16 - Java Streams  
-**(Date: 05-Jan-2026)**  
+### 📅 Day 16 & 17 - Java Streams  
+**(Date: 05-Jan-2026 - 06-Jan-2026)**  
 
 - Studied the **Java Streams API** and its role in functional-style programming.
 - Learned to create streams from **collections and arrays**.
@@ -332,8 +332,8 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 
 ---
 
-### 📅 Day 17 – Java Exception Handling  
-**(Date: 06-Jan-2026)**  
+### 📅 Day 17, 18 & 19 – Java Exception Handling  
+**(Date: 07-Jan-2026 - 09-Jan-2026)**  
 
 - Studied the concept of **exception handling** and its importance in building robust applications.
 - Learned to use `try`, `catch`, `finally`, and the `throw` and `throws` keywords.
@@ -346,17 +346,22 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 
 ---
 
-### 📅 Day 18 – Java Regular Expressions (Regex)  
-**(Date: 07-Jan-2026)**  
+### 📅 Day 19 & 20 – Java Regular Expressions (Regex) and Junit 
+**(Date: 12-Jan-2026 - 13-Jan-2026)**  
 
-- Studied the basics of **Java Regular Expressions** and pattern matching.
+- Studied the fundamentals of **Java Regular Expressions** and how pattern matching works.
 - Learned commonly used **regex metacharacters, quantifiers, and character classes**.
-- Practiced using the `Pattern` and `Matcher` classes.
-- Implemented regex for **input validation** such as email and phone numbers.
-- Understood real-world use cases of regex in data validation and text processing.
+- Practiced using the `Pattern` and `Matcher` classes for efficient and flexible matching.
+- Implemented regex-based **input validation** for real-world scenarios such as **email IDs and phone numbers**.
+- Understood practical applications of regex in **data validation and text processing**.
+- Learned the basics of **JUnit testing framework**.
+- Created **JUnit test cases** to test regex validations with both valid and invalid inputs.
+- Used assertions like `assertTrue`, `assertFalse`, and `assertEquals` to verify expected outcomes.
+- Improved code reliability by validating edge cases through automated tests.
 
 🔗 **Code / Practice Links:**  
-👉 [Day 18 – Java Regex](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
+👉 [Day 18 – Java Regex and JUnit](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex-junit)
+
 
 ---
 
