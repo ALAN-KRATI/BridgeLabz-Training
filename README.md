@@ -365,5 +365,21 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 
 ---
 
+### 📅 Day 21 & 22 – Java Annotations and Reflection  
+**(Date: 14-Jan-2026 – 15-Jan-2026)**  
+
+- Learned **Java annotations** including built-in and custom annotations  
+- Understood **retention policies** and annotation targets  
+- Explored **Java Reflection API** for runtime class inspection  
+- Accessed **private fields and methods** using reflection  
+- Implemented **annotation-based logic** like validation and access control  
+- Practiced **dynamic object creation and method invocation**  
+- Gained insight into how **frameworks use annotations and reflection**  
+
+🔗 **Code / Practice Links:**  
+👉 [Day 21 & 22 – Java Annotations and Reflection](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations-reflections)
+
+---
+
 ### 🔗 Repository Link
 👉 [BridgeLabz Training Repository](https://github.com/ALAN-KRATI/BridgeLabz-Training)
