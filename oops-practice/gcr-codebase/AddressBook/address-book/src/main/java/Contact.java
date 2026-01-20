@@ -1,5 +1,10 @@
-public class Contact {
+// POJO CLASS OR Model layer
 
+import java.util.Objects;
+
+public class Contact implements Comparable<Contact> {
+
+    // Contact attributes
     private String firstName;
     private String lastName;
     private String address;
@@ -9,7 +14,9 @@ public class Contact {
     private String phoneNumber;
     private String email;
 
-    public Contacts(String firstName, String lastName, String address, String city, String state, String zip, String phoneNumber, String email){
+
+    // constructor for intialization
+    public Contact(String firstName, String lastName, String address, String city, String state, String zip, String phoneNumber, String email){
         this.firstName = firstName;
         this.lastName = lastName;
         this.address = address;
@@ -20,6 +27,7 @@ public class Contact {
         this.email = email;
     }
 
+    // setters for attributes
     public void setFirstName(String firstName){
         this.firstName = firstName;
     }
@@ -52,6 +60,8 @@ public class Contact {
         this.email = email;
     }
 
+
+    // getters for attributes
     public String getFirstName(){
         return firstName;
     }
@@ -84,6 +94,9 @@ public class Contact {
         return email;
     }
 
+
+    // overriding methods
+    // Usecase - 7
     @Override
     public boolean equals(Object obj){
         if(this == obj){
@@ -98,10 +111,11 @@ public class Contact {
     }
 
     @Override
-    public int hashcode(){
-        return Object.hash(firstName.toLowerCase(), lastName.toLowerCase());
+    public int hashCode(){
+        return Objects.hash(firstName.toLowerCase(), lastName.toLowerCase());
     }
 
+    // Usecase - 11
     @Override
     public int compareTo(Contact other) {
         int firstNameCompare =
