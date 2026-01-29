@@ -381,5 +381,136 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 
 ---
 
+## Week 4: IO - Programming and Address Book Problem
+
+### 📅 Day 23 & 24 – Address Book Problem
+**(Date: 16-Jan-2026 - 19-Jan-2026)**  
+
+- Designed a **console-based Address Book application** using Java and OOP principles  
+- Implemented **CRUD operations** to add, edit, delete, and manage contact details  
+- Used **Collections Framework** to store multiple contacts and multiple address books efficiently  
+- Implemented **duplicate entry checks** by overriding `equals()` and using collection search methods  
+- Enabled **searching and sorting** of contacts by name, city, state, and zip using Collection utilities  
+- Improved console output by overriding the **`toString()` method**  
+- Gained hands-on experience with **File IO operations** to read and write address book data  
+- Worked with **CSV file operations using the OpenCSV library**
+
+🔗 **Code / Practice Links:**  
+👉 [Day 23 & 24 – Address Book Problem] (https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/AddressBook/address-book)
+
+---
+
+### 📅 Day 25 – CSV Handling
+**(Date: 20-Jan-2026)**  
+
+- Understood the **CSV (Comma-Separated Values) file format** and its real-world use cases  
+- Learned how to **read data from CSV files** using the OpenCSV library  
+- Implemented **writing data into CSV files** programmatically  
+- Worked with **CSVReader and CSVWriter** classes from OpenCSV  
+- Mapped Java objects to **CSV rows and columns**  
+- Handled **file paths, IO exceptions, and resource management** effectively  
+- Gained practical experience in **data serialization using CSV format**
+
+🔗 **Code / Practice Links:**  
+👉 [Day 25 – CSV Handling Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-practice)
+
+---
+
+### 📅 Day 26 – JSON Handling
+**(Date: 21-Jan-2026)**  
+
+- Understood the **JSON (JavaScript Object Notation) format** and its real-world use cases  
+- Learned how to **read and write JSON data** using the GSON library  
+- Implemented **serialization and deserialization** of Java objects to and from JSON  
+- Worked with **JsonObject, JsonArray, and Gson** classes  
+- Mapped Java objects to **structured JSON format**  
+- Handled **file IO operations and exceptions** while working with JSON files  
+- Gained practical experience in **data persistence using JSON format**
+
+🔗 **Code / Practice Links:**  
+👉 [Day 26 – JSON Handling Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json-practice)
+
+
+---
+
+## Week 5: IO - Java 8 Features
+
+### 📅 Day 27 – Lambda Expressions
+**(Date: 22-Jan-2026)**  
+
+- Understood the concept of **Lambda Expressions** and their role in functional programming  
+- Learned the syntax of lambda expressions and how they simplify **anonymous classes**  
+- Worked with **functional interfaces** such as `Predicate`, `Function`, `Consumer`, and `Supplier`  
+- Improved code readability and reduced **boilerplate code**  
+- Gained practical experience in writing **clean and expressive functional-style code**
+
+🔗 **Code / Practice Links:**  
+👉 [Day 27 – Lambda Expressions Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda-expression)
+
+---
+
+### 📅 Day 28 – Functional Interfaces
+**(Date: 23-Jan-2026)**  
+
+- Understood the concept of **Functional Interfaces** and their role in Java functional programming  
+- Learned about the `@FunctionalInterface` annotation and its purpose  
+- Worked with **built-in functional interfaces** such as `Predicate`, `Function`, `Consumer`, and `Supplier`  
+- Implemented **custom functional interfaces** with single abstract methods  
+- Used functional interfaces with **lambda expressions** for cleaner code  
+
+🔗 **Code / Practice Links:**  
+👉 [Day 28 – Functional Interfaces Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/functional-interface)
+
+---
+
+### 📅 Day 29 – Logical & OOP Scenario-based Problems
+**(Date: 27-Jan-2026 - 28-Jan-2026)**  
+
+- Solved **string-based logical problems**(Lexical-twist), including checking whether two given words are reverse of each other and performing conditional operations on the result  
+- Implemented a **password generation and encryption logic** (Flip-key problem) using custom string transformation rules  
+- Designed and implemented an **OOP-based logistics system**(future-logistics) using abstract classes and method overriding for vehicle selection and charge calculation  
+- Worked with **inheritance and abstraction** by implementing transport-specific logic in child classes such as goods and timber transport  
+- Developed a **flight validation system (Aero Vigil)** to validate flight name, flight number, and passenger count  
+- Applied **regex and custom validation logic** along with exception handling for invalid flight data  
+- Strengthened problem-solving, object-oriented design, and real-world validation skills using Java
+
+🔗 **Code / Practice Links:**  
+👉 [Day 29 – Lexical-twist & flip-key](hhttps://github.com/ALAN-KRATI/BridgeLabz-Training/tree/oops=practice/oops-practice/scenario-based)
+👉 [Day 29 – Future-Logistics](hhttps://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/future-logistics)
+👉 [Day 29 – Aero-vigil](hhttps://github.com/ALAN-KRATI/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/aero-vigil)
+
+
+---
+
+### 📅 Day 30 – Stream API
+**(Date: 29-Jan-2026)**  
+
+- Learned the fundamentals of **Java 8 Stream API** and stream pipelines (source → intermediate → terminal operations)  
+- Implemented **filtering, mapping, and sorting** operations on collections using streams  
+- Used **Collectors** for grouping, counting, summing, averaging, and summarizing data  
+- Practiced real-world use cases such as **grouping records, aggregating values, and transforming data**  
+- Understood **lazy evaluation**, stateless vs stateful operations, and ordered vs unordered streams  
+- Worked with **parallel streams** and analyzed their performance considerations  
+
+🔗 **Code / Practice Links:**  
+👉 [Day 30 – Stream API Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/stream-apis)
+
+---
+
+### 📅 Day 31 – Collectors
+**(Date: 30-Jan-2026)**  
+
+- Gained in-depth understanding of the **Collectors framework** in Java Stream API  
+- Used `Collectors.toList()`, `toSet()`, and `toMap()` for **collecting stream results**  
+- Implemented **grouping and aggregation** using `groupingBy()` with downstream collectors  
+- Applied aggregation operations such as **counting, summing, averaging, and summarizing**  
+- Worked with **nested collectors** like `groupingBy()` with `mapping()` and `counting()`  
+- Solved real-world problems involving **data analysis and transformation** using collectors  
+
+🔗 **Code / Practice Links:**  
+👉 [Day 31 – Collectors Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/collectors
+
+---
+
 ### 🔗 Repository Link
 👉 [BridgeLabz Training Repository](https://github.com/ALAN-KRATI/BridgeLabz-Training)
