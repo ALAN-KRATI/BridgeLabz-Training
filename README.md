@@ -508,7 +508,7 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 - Solved real-world problems involving **data analysis and transformation** using collectors  
 
 🔗 **Code / Practice Links:**  
-👉 [Day 31 – Collectors Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/collectors
+👉 [Day 31 – Collectors Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/collectors)
 
 ---
 
