@@ -1,4 +1,4 @@
 @FunctionalInterface
 interface FareCalculator {
-    void calcualteFare(double distance);
+    double calcualteFare(double distance);
 }
