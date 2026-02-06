@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="CalculatorTest" time="0.047" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TrackUtilTest" time="0.112" tests="10" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="24"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="D:\study material\BridgeLabz-Training\collections-practice\gcr-codebase\regex-junit\target\test-classes;D:\study material\BridgeLabz-Training\collections-practice\gcr-codebase\regex-junit\target\classes;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.1\junit-jupiter-5.10.1.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar;C:\Users\alank\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\alank\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar;C:\Users\alank\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.1\junit-jupiter-params-5.10.1.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.1\junit-jupiter-engine-5.10.1.jar;C:\Users\alank\.m2\repository\org\junit\platform\junit-platform-engine\1.10.1\junit-platform-engine-1.10.1.jar;"/>
+    <property name="java.class.path" value="D:\study material\BridgeLabz-Training\collections-practice\scenario-based\eco-trail-project\ecotrail\target\test-classes;D:\study material\BridgeLabz-Training\collections-practice\scenario-based\eco-trail-project\ecotrail\target\classes;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\alank\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\alank\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\alank\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\alank\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="D:\java\jdk-24.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\alank\AppData\Local\Temp\surefire18080749150004359714\surefirebooter-20260205140634499_3.jar C:\Users\alank\AppData\Local\Temp\surefire18080749150004359714 2026-02-05T14-06-34_245-jvmRun1 surefire-20260205140634499_1tmp surefire_0-20260205140634499_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\alank\AppData\Local\Temp\surefire16040217216760787709\surefirebooter-20260206195252240_3.jar C:\Users\alank\AppData\Local\Temp\surefire16040217216760787709 2026-02-06T19-52-52_027-jvmRun1 surefire-20260206195252240_1tmp surefire_0-20260206195252240_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="D:\study material\BridgeLabz-Training\collections-practice\gcr-codebase\regex-junit\target\test-classes;D:\study material\BridgeLabz-Training\collections-practice\gcr-codebase\regex-junit\target\classes;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.1\junit-jupiter-5.10.1.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar;C:\Users\alank\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\alank\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar;C:\Users\alank\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.1\junit-jupiter-params-5.10.1.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.1\junit-jupiter-engine-5.10.1.jar;C:\Users\alank\.m2\repository\org\junit\platform\junit-platform-engine\1.10.1\junit-platform-engine-1.10.1.jar;"/>
+    <property name="surefire.test.class.path" value="D:\study material\BridgeLabz-Training\collections-practice\scenario-based\eco-trail-project\ecotrail\target\test-classes;D:\study material\BridgeLabz-Training\collections-practice\scenario-based\eco-trail-project\ecotrail\target\classes;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\alank\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\alank\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\alank\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;C:\Users\alank\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\alank\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\alank"/>
     <property name="user.language" value="en"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2025-04-15"/>
     <property name="java.home" value="D:\java\jdk-24.0.1"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="D:\study material\BridgeLabz-Training\collections-practice\gcr-codebase\regex-junit"/>
+    <property name="basedir" value="D:\study material\BridgeLabz-Training\collections-practice\scenario-based\eco-trail-project\ecotrail"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\alank\AppData\Local\Temp\surefire18080749150004359714\surefirebooter-20260205140634499_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\alank\AppData\Local\Temp\surefire16040217216760787709\surefirebooter-20260206195252240_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="24.0.1+9-30"/>
@@ -45,7 +45,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\alank\AppData\Local\Temp\"/>
     <property name="java.version" value="24.0.1"/>
-    <property name="user.dir" value="D:\study material\BridgeLabz-Training\collections-practice\gcr-codebase\regex-junit"/>
+    <property name="user.dir" value="D:\study material\BridgeLabz-Training\collections-practice\scenario-based\eco-trail-project\ecotrail"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -58,9 +58,14 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="68.0"/>
   </properties>
-  <testcase name="testDivideByZero" classname="CalculatorTest" time="0.021"/>
-  <testcase name="testAdd" classname="CalculatorTest" time="0.001"/>
-  <testcase name="testSubtract" classname="CalculatorTest" time="0.001"/>
-  <testcase name="testDivide" classname="CalculatorTest" time="0.0"/>
-  <testcase name="testMultiply" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testGetMostHikedTrails" classname="TrackUtilTest" time="0.057"/>
+  <testcase name="testDifficultyStats" classname="TrackUtilTest" time="0.004"/>
+  <testcase name="testFilterTrails" classname="TrackUtilTest" time="0.002"/>
+  <testcase name="testUpdateHikeCountInvalid" classname="TrackUtilTest" time="0.002"/>
+  <testcase name="testUpdateHikeCountValid" classname="TrackUtilTest" time="0.001"/>
+  <testcase name="testGetTrailByInvalid" classname="TrackUtilTest" time="0.001"/>
+  <testcase name="testGetHikeCountByRegion" classname="TrackUtilTest" time="0.002"/>
+  <testcase name="testGetTrailById" classname="TrackUtilTest" time="0.002"/>
+  <testcase name="testTopTrailsByRegion" classname="TrackUtilTest" time="0.003"/>
+  <testcase name="testGroupTrailsByDifficulty" classname="TrackUtilTest" time="0.001"/>
 </testsuite>
