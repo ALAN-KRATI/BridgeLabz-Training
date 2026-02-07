@@ -240,13 +240,13 @@ After analysis, SonarQube provides:
 Attach screenshots of:
 
 ## 📷 Maven Test Execution
-![Maven Test](images/maven-test.png)
+![Maven Test](maven-test.png)
 
 ## 📷 SonarQube Dashboard
-![Sonar Dashboard](images/dashboard.png)
+![Sonar Dashboard](dashboard.png)
 
 ## 📷 Code Coverage
-![Coverage](images/code-coverage.png)
+![Coverage](code-coverage.png)
 
 ---
 
