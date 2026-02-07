@@ -239,9 +239,14 @@ After analysis, SonarQube provides:
 
 Attach screenshots of:
 
-1. Maven test execution (`mvn clean test`)
-2. SonarQube project dashboard
-3. Code coverage section
+## 📷 Maven Test Execution
+![Maven Test](images/maven-test.png)
+
+## 📷 SonarQube Dashboard
+![Sonar Dashboard](images/dashboard.png)
+
+## 📷 Code Coverage
+![Coverage](images/code-coverage.png)
 
 ---
 
