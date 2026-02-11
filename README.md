@@ -512,5 +512,108 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 
 ---
 
+## Design Patterns And Principles
+
+### 📅 Day 32 & 33 – Design Principles & Design Patterns  
+**(Date: 01-feb-2026) - (Date: 02-feb-2026)**  
+
+- Learned important **design principles** (KISS, DRY, YAGNI, SOLID) and how they help in writing clean, maintainable code  
+- Implemented core design patterns: **Singleton, Builder, Factory, and Observer**  
+- Understood how patterns reduce tight coupling and improve scalability  
+- Applied all four patterns together in a mini project: **Smart Library Management System**
+
+### 🧠 Smart Library Management System
+- **Singleton:** Maintained a single shared library catalog manager  
+- **Builder:** Created `Book` objects with optional details in a readable way  
+- **Factory:** Dynamically created different user types (Student, Librarian, Admin)  
+- **Observer:** Notified users when requested books became available  
+
+🔗 **Code / Practice Links:**  
+👉 [Day 28 – Design Patterns Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/design-patterns-practice/design-patterns-practice/gcr-codebase/smart-library-management)
+
+---
+
+## Multi Threading
+
+### 📅 Day  34 & 35 – Multi-Threading in Java  
+**(Date: 03-feb-2026) - (Date: 04-feb-2026)**  
+
+- Learned the concept of **Multi-Threading** and how multiple tasks can run concurrently within a single program  
+- Created threads using both **Thread class** and **Runnable interface** (recommended approach)  
+- Understood **thread life cycle and states**: NEW, RUNNABLE, BLOCKED, WAITING, TIMED_WAITING, TERMINATED  
+- Practiced important methods like `start()`, `run()`, `sleep()`, `join()`, and thread priority  
+- Observed issues with shared resources (race conditions) and understood the need for synchronization  
+
+### 🧪 Practice Work
+- Implemented a **Download Manager** simulation running multiple downloads simultaneously  
+- Built a **Banking Transaction System** to demonstrate shared resource access by multiple threads  
+- Practiced thread naming and monitoring thread states during execution  
+
+🔗 **Code / Practice Links:**  
+👉 [Day 29 – Multi-Threading Practice](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/multithreading-practice/multithreading-practice/gcr-codebase/mulit-threading)
+
+---
+
+## Java Databse Connectivity
+
+### 📅 Day 36 & 37– JDBC & DBMS Concepts  
+**(Date: 05-feb-2026) - (Date: 06-feb-2026)**  
+
+- Learned fundamentals of **DBMS** including tables, rows, columns, primary key, and foreign key relationships  
+- Understood different SQL operations: **DDL, DML, DQL, TCL** and basic queries like `SELECT`, `INSERT`, `UPDATE`, and `DELETE`  
+- Studied **JDBC architecture** and how Java applications communicate with databases using drivers and connections  
+- Worked with core JDBC components: `Connection`, `Statement`, `PreparedStatement`, and `ResultSet`  
+- Understood the difference between **Statement vs PreparedStatement** and how PreparedStatement prevents SQL Injection and improves performance  
+
+---
+
+### 📅 Day 38 & 39 – JDBC Mini Project: Health Clinic Application  
+**(Date: 07-feb-2026) - (Date: 08-feb-2026)**    
+
+- Developed a **Health Clinic Management Application** using Java and JDBC  
+- Implemented database operations such as patient registration, doctor management, and appointment handling  
+- Used `PreparedStatement` for safe database interaction and to prevent SQL Injection  
+- Performed CRUD operations (Create, Read, Update, Delete) on multiple tables  
+- Managed relationships between entities like **Patients, Doctors, and Appointments** using primary and foreign keys  
+- Practiced handling `ResultSet`, exception handling, and proper closing of database resources  
+
+🔗 **Code / Practice Links:**  
+👉 [Day 31 – Health Clinic JDBC Application](https://github.com/ALAN-KRATI/BridgeLabz-Training/tree/dbms-practice/dbms-practice/gcr-codebase/health-clinic-app)
+
+---
+
+### 📅 Day 40 – Collections Case Studies  
+**(Date: 09-Feb-2026)**  
+
+#### 💼 Job Portal Resume Shortlisting System
+- Built a system to shortlist resumes based on matching skills  
+- Stored resumes in `List<Resume>` and skills in `Set<String>`  
+- Ranked candidates using `Comparator` sorting  
+- Handled invalid data using custom `InvalidResumeException`  
+
+**Concepts:** List, Set, Comparator, OOP, Exception Handling  
+
+#### ⭐ Event Feedback & Rating Analyzer
+- Stored feedback using `Map<EventID, List<Integer>>`  
+- Calculated average ratings and identified top-rated events  
+- Validated ratings (1–5) using `InvalidRatingException`  
+- Applied analysis logic using methods and OOP structure  
+
+**Concepts:** Map, List, OOP, Exception Handling  
+
+🔗 **Code / Practice Links:**  
+👉 [Day 33 – Collections Case Studies](hhttps://github.com/ALAN-KRATI/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+
+---
+### 📅 Day 41 – Mock Assessment  
+**(Date: 10-feb-2026)**  
+
+- Attempted a mock assessment consisting of 3 questions solved on pen and paper  
+- Questions covered topics from **Collections, DSA, Core Java, OOP concepts, Java 8 features, and JUnit**  
+- Focused on problem-solving approach, logic building, and code structure without IDE support  
+- Revised theoretical concepts along with writing proper syntax and explanations  
+
+---
+
 ### 🔗 Repository Link
 👉 [BridgeLabz Training Repository](https://github.com/ALAN-KRATI/BridgeLabz-Training)
