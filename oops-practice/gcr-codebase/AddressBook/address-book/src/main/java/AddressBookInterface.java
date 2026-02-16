@@ -1,4 +1,3 @@
-// Service layer declaration 
 
 public interface AddressBookInterface {
 

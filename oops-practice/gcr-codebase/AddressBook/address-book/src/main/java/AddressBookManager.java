@@ -14,9 +14,8 @@ import java.io.*;
 
 public class AddressBookManager implements AddressBookInterface {
 
-    // Usecase - 6 hashmap for associating an addressbook with it's certain name.
+ 
     private Map<String, AddressBook> addressBooks = new HashMap<>(); 
-    //private AddressBook addressBook = new AddressBook();
     private Scanner scanner = new Scanner(System.in);
 
     // Create or get existing address book

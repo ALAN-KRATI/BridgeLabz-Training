@@ -99,6 +99,11 @@ public class Main{
             }
         }
 
+        AddressBookIO fileService = new JSONFile();
+        AsyncAddressBook async = new AsyncAddressBook(fileService);
+
+        async.writeAsync(addressBook.getPersonList());
+
     } 
 
     private static void displayMenu(){
