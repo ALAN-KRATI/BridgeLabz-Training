@@ -617,4 +617,4 @@ Tasks are organized **week-wise**, detailing the concepts learned and hands-on p
 
 ### 🔗 Repository Link
 👉 [BridgeLabz Training Repository](https://github.com/ALAN-KRATI/BridgeLabz-Training)
->>>>>>> 008ea97ea27c4ff354d2da7fa39e42e11e94231e
+
